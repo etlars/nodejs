@@ -1,0 +1,18 @@
+{
+	"first_user": {
+		"password": "first_pass",
+		"name": "abet"
+	},
+	"second_user": {
+		"password": "second_pass",
+		"name": "betty"
+	},
+	"joseph": {
+		"password": "11111",
+		"name": "joseph"
+	},
+	"color": {
+		"password": "1234",
+		"name": "color"
+	}
+}
